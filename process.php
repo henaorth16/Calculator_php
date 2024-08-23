@@ -106,16 +106,16 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $_SESSION['ope'] = $ope;
         $_SESSION['result'] = $result;
 
-        header('Location: form.php');
+        header('Location: index.php');
         exit();
     } else {
         $_SESSION['result'] = 'Invalid request';
-        header('Location: main.php');
+        header('Location: index.php');
         exit();
     }
 } else {
     $_SESSION['result'] = 'Invalid request';
-    header('Location: main.php');
+    header('Location: index.php');
     exit();
 }
 ?>

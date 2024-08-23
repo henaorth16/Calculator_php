@@ -28,13 +28,13 @@ To use this calculator locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/calculator.git
+    git clone https://github.com/henaorth16/Calculator_php.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd calculator
+    cd calculator_php
     ```
 
 3. **Ensure you have a web server with PHP installed:**
@@ -47,18 +47,8 @@ To use this calculator locally, follow these steps:
 
 ## Usage
 
-### JavaScript Functions
+### php Functions
 
-- **Addition:** `add(a, b)`
-- **Subtraction:** `subtract(a, b)`
-- **Multiplication:** `multiply(a, b)`
-- **Division:** `divide(a, b)`
-- **Remainder:** `remainder(a, b)`
-- **Average:** `average(numbersArray)`
-- **Exponential:** `exponential(base, exponent)`
-- **Rectangle Area:** `rectangleArea(length, width)`
-- **Triangle Area:** `triangleArea(base, height)`
-- **Circle Area:** `circleArea(radius)`
 - **Fibonacci Sequence:** `fibonacci(n)`
 - **Factorial:** `factorial(n)`
 - **Quadratic Equation Solver:** `quadratic(a, b, c)`
@@ -76,11 +66,5 @@ If you'd like to contribute to this project, please follow these steps:
 3. **Make your changes and commit them:** `git commit -m 'Add some feature'`
 4. **Push to the branch:** `git push origin feature-branch-name`
 5. **Submit a pull request.**
+### Contact me on [Telegram](https://t.me/henaorth)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or issues, please open an issue on the repository or contact the maintainer at your-email@example.com.
